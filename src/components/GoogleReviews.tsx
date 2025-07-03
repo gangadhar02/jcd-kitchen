@@ -9,11 +9,6 @@ const GoogleReviews = () => {
         
         <div className="flex justify-center">
           <div className="elfsight-app-f238c939-f522-4fa5-ab66-3b052e5b46a7" data-elfsight-app-lazy></div>
-          {/* Fallback content if widget doesn't load */}
-          <div className="text-center text-gray-600 p-8">
-            <p>⭐⭐⭐⭐⭐ Rated 4.8/5 on Google Reviews</p>
-            <p className="mt-2">See our customer reviews on Google</p>
-          </div>
         </div>
         
         <CTAButton />
